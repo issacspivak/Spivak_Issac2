@@ -1,0 +1,28 @@
+body {
+    background: darkolivegreen;
+    font-family: arial;
+}
+
+header {
+    background: darkolivegreen;
+    color: white;
+    padding: 10px 15px 0 15px
+}
+
+header h1 {
+    margin: 0;
+    display: inline;
+}
+
+nav ul {
+    margin: 0;
+    display: inline;
+}
+
+nav ul li {
+    background: white;
+    color: black;
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px 15px;
+}
